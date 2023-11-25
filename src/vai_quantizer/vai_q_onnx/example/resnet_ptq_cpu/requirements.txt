@@ -5,3 +5,4 @@ onnxruntime_extensions
 protobuf
 torch
 torchvision
+sympy>=1.12 # not directly required, pinned by Snyk to avoid a vulnerability
