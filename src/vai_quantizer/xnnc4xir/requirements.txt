@@ -13,7 +13,7 @@
 # limitations under the License.
 
 
-marshmallow>=3.0.0rc5
+marshmallow>=3.26.2
 tqdm>=4.31.1
 numpy>=1.16.4
 graphviz>=0.11.1
