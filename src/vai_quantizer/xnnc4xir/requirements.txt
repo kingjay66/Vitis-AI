@@ -17,5 +17,5 @@ marshmallow>=3.0.0rc5
 tqdm>=4.31.1
 numpy>=1.16.4
 graphviz>=0.11.1
-protobuf>=3.6.1
+protobuf>=6.33.5
 h5py>=2.10.0
